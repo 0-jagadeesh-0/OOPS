@@ -7,12 +7,11 @@
 
 - **What is a class?**
   - A class is a blueprint of an object.
-  - <code>
-  class Student{
-    public:
-        string name;
-        int id;
-  }
+  - `class Student{      `
+  - `     public:        `
+  - `        string name;`
+  - `        int id;     `
+  - `}                   `
   </code>
 
 - **C++ constructor**
