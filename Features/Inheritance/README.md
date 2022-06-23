@@ -3,6 +3,7 @@
 
   **Advantages**
   - Code Reusability.
+
 ## Types of Inheritance
   - Single Inheritance
   - Multiple Inheritance
@@ -11,8 +12,8 @@
   - Hybrid Inheritance
 
 ### Single Inheritance
-
     It is defined as the iheritance in which derived class is inherited from only one base class.
+
     ```
     class A{
         public:
@@ -26,6 +27,7 @@
     ```
 ### Multilevel Inheritance
     It is a process of deriving a class from another derived class.
+
     ```
     class A{
         public:
@@ -44,7 +46,8 @@
     ```
 ### Multiple Inheritance
     The process of deriving a class that inherits the attributes from two or more classes.
-     ```
+
+    ```
     class A{
         public:
         int k=5;
@@ -61,7 +64,8 @@
     ```
 ### Hybrid Inheritance
     The process of deriving a class from two or more derived classes.
-     ```
+
+    ```
     class A{
         public:
         int k=5;
