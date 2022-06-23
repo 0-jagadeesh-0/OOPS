@@ -1,4 +1,4 @@
-## Features of OOPS
+# Features of OOPS
 
 - ###    [Inheritance](./Inheritance/)
 - ###    [Polymorphism](./Polymorphism/)

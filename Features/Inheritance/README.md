@@ -1,4 +1,4 @@
-### Inheritance
+# Inheritance
 
 > ***The process in which an object acquires all the properties and behaviour from the parent object automatically.***
 
