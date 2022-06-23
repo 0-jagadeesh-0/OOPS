@@ -1,16 +1,14 @@
 # Inheritance
-
-> ***The process in which an object acquires all the properties and behaviour from the parent object automatically.***
+    The process in which an object acquires all the properties and behaviour from the parent object automatically.
 
   **Advantages**
   - Code Reusability.
-
-  ## Types of Inheritance
-    - Single Inheritance
-    - Multiple Inheritance
-    - Hierarchial Inheritance
-    - Multilevel Inheritance
-    - Hybrid Inheritance
+## Types of Inheritance
+  - Single Inheritance
+  - Multiple Inheritance
+  - Hierarchial Inheritance
+  - Multilevel Inheritance
+  - Hybrid Inheritance
 
 ### Single Inheritance
 
