@@ -7,7 +7,7 @@
 
 ## What is a class?
   - A class is a blueprint of an object.
-  ``` 
+   ``` 
    class Student{      
         public:        
            string name;
@@ -46,7 +46,7 @@
 
 - **C++ Destructor**
     -  Destructor destructs the object, it works opposite to the constructor.
-    ```
+  ```
     class Student{
         public:
             int id;
@@ -54,7 +54,7 @@
                 
             }
     };
-    ```
+  ```
 
 ## *this* keyword
    - "this" is a keyword that refers to the current instance of the class.
@@ -66,7 +66,7 @@
    - If a function is defined as friend function, then the protected and private data of a class can be accessed using the function.
    **Declaration**
 
-    ```
+  ```
     class Student{
             friend findId(string name);
     };
@@ -74,5 +74,5 @@
     {
 
     }
-    ```
+  ```
 
