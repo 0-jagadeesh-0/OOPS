@@ -58,8 +58,8 @@
 ## *this* keyword
    - "this" is a keyword that refers to the current instance of the class.
    - **Uses of 'this' keyword**
-    - It is used to pass current object as parameter to another method.
-    - It is used to refer current class instance variable.
+        - It is used to pass current object as parameter to another method.
+        - It is used to refer current class instance variable.
 ## friend function
    - If a function is defined as friend function, then the protected and private data of a class can be accessed using the function.
    - **Declaration**
