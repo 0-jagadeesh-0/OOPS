@@ -7,14 +7,15 @@
 
 - **What is a class?**
   - A class is a blueprint of an object.
-  - `class Student{      
+  - ```class Student{      
         public:        
            string name;
            int id;     
-   };                   `
+   };                   ```
 
 - **C++ constructor**
   - Constructor is a special method which is invoked automatically at the time of object creation.
+  - It is called constructor because it constructs the values of data members of the class.
 
   **Types of Constructors**
   - Default Constructor
