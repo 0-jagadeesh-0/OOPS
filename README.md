@@ -26,10 +26,10 @@
 
   ## Features of OOPS
 
-###   - [Inheritance](https://github.com/0-jagadeesh-0/OOPS#inheritance)
-###   - [Polymorphism](https://github.com/0-jagadeesh-0/OOPS/#polymorphism)
-###   - [Encapsulation](https://github.com/0-jagadeesh-0/OOPS#encapsulation)
-###   - [Abstraction](https://github.com/0-jagadeesh-0/OOPS#abstraction)
+- ###    [Inheritance](https://github.com/0-jagadeesh-0/OOPS#inheritance)
+- ###    [Polymorphism](https://github.com/0-jagadeesh-0/OOPS/#polymorphism)
+- ###    [Encapsulation](https://github.com/0-jagadeesh-0/OOPS#encapsulation)
+- ###    [Abstraction](https://github.com/0-jagadeesh-0/OOPS#abstraction)
 
 
   ### Inheritance
