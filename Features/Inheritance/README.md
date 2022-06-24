@@ -13,6 +13,7 @@
 
 ### Single Inheritance
   It is defined as the iheritance in which derived class is inherited from only one base class.
+  
   <img src='../../assets/1.png' width=200 height=200 />
 
     class A{
