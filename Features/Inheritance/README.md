@@ -14,8 +14,9 @@
 ### Single Inheritance
   It is defined as the iheritance in which derived class is inherited from only one base class.
   <figure>
-  <img src='../../assets/1.png' width=200 height=200 />
+  <img src='../../assets/1.png' width=300 height=300 />
 </figure>
+
     class A{
         public:
         int k=5;
@@ -28,7 +29,10 @@
     
 ### Multilevel Inheritance
   It is a process of deriving a class from another derived class.
-  ![Multilevel Inheritance](../../assets/2.png)
+  
+  <figure>
+  <img src='../../assets/2.png' width=300 height=300 />
+</figure>
   
     class A{
         public:
@@ -47,7 +51,10 @@
  
 ### Multiple Inheritance
   The process of deriving a class that inherits the attributes from two or more classes.
-  ![Multiple Inheritance](../../assets/3.png)
+  
+  <figure>
+  <img src='../../assets/3.png' width=300 height=300 />
+</figure>
   
     class A{
         public:
@@ -65,7 +72,10 @@
    
 ### Hybrid Inheritance
   The process of deriving a class from two or more derived classes.
-  ![Hybrid Inheritance](../../assets/4.png)
+  
+  <figure>
+  <img src='../../assets/4.png' width=300 height=300 />
+</figure>
 
     class A{
         public:
@@ -86,7 +96,10 @@
     
 ### Hierarchical Inheritance
   The process of deriving more than one class from a single base class.
-  ![Hierarchical Inheritance](../../assets/1.png)
+  
+  <figure>
+  <img src='../../assets/5.png' width=300 height=300 />
+</figure>
   
     class A{
         public:
