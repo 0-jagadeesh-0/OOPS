@@ -14,12 +14,7 @@
 ### Single Inheritance
   It is defined as the iheritance in which derived class is inherited from only one base class.
 
-<<<<<<< HEAD
-    ![alt text](https://github.com/0-jagadeesh-0/OOPS/blob/master/assets/1.png?raw=true)
-
     ```
-=======
->>>>>>> c7f83dbedbd896bc6765ac4d515ba51755aa72b5
     class A{
         public:
         int k=5;
