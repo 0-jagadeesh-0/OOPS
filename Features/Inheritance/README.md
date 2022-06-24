@@ -1,5 +1,5 @@
 # Inheritance
-    The process in which an object acquires all the properties and behaviour from the parent object automatically.
+  The process in which an object acquires all the properties and behaviour from the parent object automatically.
 
   **Advantages**
   - Code Reusability.
@@ -12,11 +12,14 @@
   - Hybrid Inheritance
 
 ### Single Inheritance
-    It is defined as the iheritance in which derived class is inherited from only one base class.
+  It is defined as the iheritance in which derived class is inherited from only one base class.
 
+<<<<<<< HEAD
     ![alt text](https://github.com/0-jagadeesh-0/OOPS/blob/master/assets/1.png?raw=true)
 
     ```
+=======
+>>>>>>> c7f83dbedbd896bc6765ac4d515ba51755aa72b5
     class A{
         public:
         int k=5;
@@ -26,11 +29,10 @@
         public:
         int c=10;
     };
-    ```
+    
 ### Multilevel Inheritance
-    It is a process of deriving a class from another derived class.
-
-    ```
+  It is a process of deriving a class from another derived class.
+  
     class A{
         public:
         int k=5;
@@ -45,11 +47,10 @@
         public:
         int m=8;
     }
-    ```
+ 
 ### Multiple Inheritance
-    The process of deriving a class that inherits the attributes from two or more classes.
-
-    ```
+  The process of deriving a class that inherits the attributes from two or more classes.
+  
     class A{
         public:
         int k=5;
@@ -63,11 +64,10 @@
         public:
         int m=1;
     };
-    ```
+   
 ### Hybrid Inheritance
-    The process of deriving a class from two or more derived classes.
+  The process of deriving a class from two or more derived classes.
 
-    ```
     class A{
         public:
         int k=5;
@@ -84,10 +84,10 @@
         public:
         int m=1;
     };
-    ```
+    
 ### Hierarchical Inheritance
-    The process of deriving more than one class from a single base class.
-     ```
+  The process of deriving more than one class from a single base class.
+  
     class A{
         public:
         int k=5;
@@ -104,4 +104,4 @@
         public:
         int m=1;
     };
-    ```
+    
