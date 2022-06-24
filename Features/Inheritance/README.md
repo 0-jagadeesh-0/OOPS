@@ -1,5 +1,5 @@
 # Inheritance
-    The process in which an object acquires all the properties and behaviour from the parent object automatically.
+The process in which an object acquires all the properties and behaviour from the parent object automatically.
 
   **Advantages**
   - Code Reusability.
