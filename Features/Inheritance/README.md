@@ -1,5 +1,5 @@
 # Inheritance
-The process in which an object acquires all the properties and behaviour from the parent object automatically.
+  The process in which an object acquires all the properties and behaviour from the parent object automatically.
 
   **Advantages**
   - Code Reusability.
@@ -12,7 +12,7 @@ The process in which an object acquires all the properties and behaviour from th
   - Hybrid Inheritance
 
 ### Single Inheritance
-    It is defined as the iheritance in which derived class is inherited from only one base class.
+  It is defined as the iheritance in which derived class is inherited from only one base class.
 
     ```
     class A{
@@ -26,7 +26,7 @@ The process in which an object acquires all the properties and behaviour from th
     };
     ```
 ### Multilevel Inheritance
-    It is a process of deriving a class from another derived class.
+  It is a process of deriving a class from another derived class.
 
     ```
     class A{
@@ -45,7 +45,7 @@ The process in which an object acquires all the properties and behaviour from th
     }
     ```
 ### Multiple Inheritance
-    The process of deriving a class that inherits the attributes from two or more classes.
+  The process of deriving a class that inherits the attributes from two or more classes.
 
     ```
     class A{
@@ -63,7 +63,7 @@ The process in which an object acquires all the properties and behaviour from th
     };
     ```
 ### Hybrid Inheritance
-    The process of deriving a class from two or more derived classes.
+  The process of deriving a class from two or more derived classes.
 
     ```
     class A{
@@ -84,7 +84,7 @@ The process in which an object acquires all the properties and behaviour from th
     };
     ```
 ### Hierarchical Inheritance
-    The process of deriving more than one class from a single base class.
+  The process of deriving more than one class from a single base class.
      ```
     class A{
         public:
