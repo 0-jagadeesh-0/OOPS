@@ -14,7 +14,6 @@
 ### Single Inheritance
   It is defined as the iheritance in which derived class is inherited from only one base class.
 
-    ```
     class A{
         public:
         int k=5;
@@ -24,7 +23,7 @@
         public:
         int c=10;
     };
-    ```
+    
 ### Multilevel Inheritance
   It is a process of deriving a class from another derived class.
 
