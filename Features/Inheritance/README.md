@@ -13,7 +13,7 @@
 
 ### Single Inheritance
   It is defined as the iheritance in which derived class is inherited from only one base class.
-  ![Single Inheritance](../../assets/1.png)
+  ![Single Inheritance](../../assets/1.png =250x250)
 
     class A{
         public:
