@@ -45,3 +45,6 @@ C++ where functions having same name, but different types of parameters can be o
                 cout<<"This is child class.";
             }
         }
+
+**Virtual Function**
+
