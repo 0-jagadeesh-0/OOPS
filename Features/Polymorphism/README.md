@@ -27,3 +27,21 @@ C++ where functions having same name, but different types of parameters can be o
 ### **Runtime Polymorphism**
 - This type of polymorphism is achieved when the functions are invoked during the runtime.
 - It can be achieved by ***function overriding***. 
+
+**Function Overriding**
+- In function overriding, the function of base class gets a new definition in the derived class.
+- The function with same name have different definitions in the parent and child class.
+
+        class A{
+            void display()
+            {
+                cout<<"This is parent class.";
+            }
+        };
+
+        class B: public A{
+            void display()
+            {
+                cout<<"This is child class.";
+            }
+        }
