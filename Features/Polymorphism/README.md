@@ -20,9 +20,10 @@ C++ where functions having same name, but different types of parameters can be o
         fun(double a,double b);
         fun(int a,int b,int c);
         fun(double a,double b,double c);
-
+        
 **Operator Overloading**
-- 
+- Operator overloading is a compile-time polymorphism in which the operator is overloaded to provide the special meaning to the user-defined data type.
+- Operator overloading is used to overload or redefines most of the operators available in C++.
 
 ### **Runtime Polymorphism**
 - This type of polymorphism is achieved when the functions are invoked during the runtime.
@@ -47,4 +48,7 @@ C++ where functions having same name, but different types of parameters can be o
         }
 
 **Virtual Function**
+- A C++ virtual function is a member function in the base class that you redefine in a derived class. It is declared using the virtual keyword.
+- It is used to tell the compiler to perform dynamic linkage or late binding on the function.
+
 
