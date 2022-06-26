@@ -22,6 +22,7 @@ It can be defined in two different ways:
 ## Access Specifiers
 
 **What are Access Specifiers?**
+
 Access Specifiers define how the data members of class can be accessed.
 
 **Types of Access Specifiers**
