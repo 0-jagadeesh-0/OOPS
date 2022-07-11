@@ -12,8 +12,8 @@
 - OOPs, are based on a bottom-up approach, unlike the Structural programming paradigm, which uses a top-down approach.
 - Polymorphism offers a lot of flexibility in OOPs
 
-- ### [OOP Fundamentals](./Fundamentals/README.md)
-- ### [Features](./Features/README.md)
+### [OOP Fundamentals](./Fundamentals/README.md)
+### [Features](./Features/README.md)
 
 
   
